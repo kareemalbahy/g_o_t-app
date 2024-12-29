@@ -1,6 +1,6 @@
 # g_o_t
 
-A new Flutter project.
+A new Flutter application for Game Of Thrones charachters information.
 
 ## Getting Started
 
